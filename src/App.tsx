@@ -1,10 +1,6 @@
-import Message from "./Message";
+import { Button, ButtonGroup } from "@chakra-ui/react";
 
 function App() {
-  return (
-    <div>
-      <Message />
-    </div>
-  );
+  return <h1>main</h1>;
 }
 export default App;
